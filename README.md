@@ -42,7 +42,7 @@
 
   <!-- Assembly -->
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
+    <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" alt="Assembly" width="40" height="40"/>
   </a>
 
   <!-- Go -->
