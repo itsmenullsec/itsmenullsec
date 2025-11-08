@@ -9,9 +9,9 @@
 
 - 🔭 Bug Hunter at  **HackerOne | BugCrowd | YeWeHack | Intigriti**
 
-- 🌱 I’m Also learning **Cloud Security And Artificial Intelligence(AI)**
+- 🌱 I’m Also learning **OSCE3 | OSEE | Cloud Security**
 
-- 💬 Ask me about **Linux | Osint | Malware | Reverse Engineering | Cryptography | Networking**
+- 💬 Ask me about **Linux | Osint | Bugbounty | Penetesting | Cryptography | Networking**
 
 - 📫 How to reach me **Linkedin**
 
