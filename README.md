@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/itsmerobiul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmerobiul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@NextGenRobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nextgen.hacker" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itsmenullsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmerobiul" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@itsmenullsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nextgen.hacker" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
